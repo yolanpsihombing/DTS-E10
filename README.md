@@ -1,6 +1,6 @@
 Berikut Merupakan Project dari Digital Talent Scholarship 2021 - HTML & CSS
 
-Kami Kelompok E10 yang beranggotakan 
+Kami Kelompok E10 yang beranggotakan:
 1. Sekar Amalia
 2. Abdurrahman Wajid
 3. Irene Novika Lubis
